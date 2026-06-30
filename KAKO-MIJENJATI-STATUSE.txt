@@ -1,0 +1,20 @@
+KAKO MIJENJATI STATUSE STANOVA
+
+1. Na GitHubu otvorite file: statusi.json
+2. Kliknite olovku / Edit.
+3. Promijenite samo vrijednost statusa uz oznaku stana.
+
+Primjer:
+  "S23": "prodano"
+
+Moguće vrijednosti:
+  dostupno
+  rezervirano
+  prodano
+
+4. Kliknite Commit changes.
+5. GitHub Pages / Cloudflare Pages će se automatski ažurirati.
+
+VAŽNO:
+- Ne mijenjajte oznake stanova (npr. S23).
+- Mijenjajte samo tekst desno od dvotočke.
